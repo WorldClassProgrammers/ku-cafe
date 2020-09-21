@@ -4,17 +4,20 @@
 
 | Item                                   | Price    |
 |:---------------------------------------|---------:|
-| Scrambled egg with bacon               | 120 baht |
-| Tuna sandwich                          | 25 baht  |
-| Ham-Cheese sandwich                    | 30 baht  |
-| Grilled cheese-filled sausage          | 20 baht  |
-| Koko-crunch cereal box                 | 79 baht  |
+| Scrambled egg with bacon               | 120.0 |
+| Tuna sandwich                          | 25.0  |
+| Ham-Cheese sandwich                    | 30.0  |
+| Grilled cheese-filled sausage          | 20.0  |
+| Koko-crunch cereal box                 | 79.0  |
 
 ## Lunch Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Curry Rice                             |  249.0 |
+| Udon                                   |  159.0 |
+| Shrimp Tempura                         |   89.0 |
+| Gyudon                                 |  199.0 |
 
 ## Dinner menu
 
@@ -25,9 +28,6 @@
 | Pepperoni pizza                            |  500  |
 | Fish and Chip                            |  250  |
 
-etc.
-
-
 ## Night Food menu
 
 | Item                   | Price |
@@ -37,7 +37,6 @@ etc.
 | Bacon-Wrapped Hot Dogs |  40.0 |
 | Tacos                  |  80.0 |
 | Chili                  |  45.0 |
-
 
 ## Beverages
 

@@ -1,10 +1,10 @@
 # KU Cafe
 
-[Breakfast Menu](Menu.md/##breakfast-menu)
+[Breakfast Menu](Menu.md/#Breakfast-menu)
 
-Lunch Menu
+[Lunch Menu](Menu.md#Lunch-Menu)
 
-[Dinner Menu](Menu.md#Dinner-menu) <br/>
+[Dinner Menu](Menu.md#Dinner-menu)
 
 [Night Food Menu](Menu.md#Night-Food-menu)
 
@@ -16,7 +16,7 @@ Lunch Menu
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
 | Nutta     | Breakfast menu | @GifperTC |
+| Chanathip Thumkanon | Lunch Menu | @kaesrel |
 | Phuwanut Jiamwatthanaloet | Dinner menu | @phuwanutj |
 | Nanthakarn | Night Food Menu | @ZEZAY     |
 | Sahadporn  | Beverages.      | @Sahadporn |
-
