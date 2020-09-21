@@ -1,10 +1,10 @@
 # KU Cafe
 
 
-Breakfast Menu
-Lunch Menu
-[Dinner Menu](Menu.md##Dinner-menu)
-Night Food Menu
+Breakfast Menu <br/>
+Lunch Menu <br/>
+[Dinner Menu](Menu.md##Dinner-menu) <br/>
+Night Food Menu <br/>
 Beverages
 
 ## About Us
