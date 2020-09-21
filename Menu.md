@@ -19,7 +19,7 @@
 | Shrimp Tempura |  89.0 |
 | Gyudon         | 199.0 |
 
-## Dinner menu
+## Dinner Menu
 
 | Item            | Price |
 | :-------------- | ----: |
@@ -28,7 +28,7 @@
 | Pepperoni pizza | 500.0 |
 | Fish and Chip   | 250.0 |
 
-## Night Food menu
+## Night Food Menu
 
 | Item                   | Price |
 | :--------------------- | ----: |
