@@ -12,7 +12,18 @@
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| nothing yet                            |  0.0  |
+
+## Dinner menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Barbeque Rib                            |  800  |
+| Tom yum kung                            |  250  |
+| Pepperoni pizza                            |  500  |
+| Fish and Chip                            |  250  |
 
 etc.
 

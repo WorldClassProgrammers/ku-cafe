@@ -3,7 +3,8 @@
 [Breakfast Menu](Menu.md/##breakfast-menu)
 
 Lunch Menu
-Dinner Menu
+
+[Dinner Menu](Menu.md#Dinner-menu) <br/>
 
 [Night Food Menu](Menu.md#Night-Food-menu)
 
@@ -14,8 +15,8 @@ Dinner Menu
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Nutta     | Breakfast menu | GifperTC |
+| Nutta     | Breakfast menu | @GifperTC |
+| Phuwanut Jiamwatthanaloet | Dinner menu | @phuwanutj |
 | Nanthakarn | Night Food Menu | @ZEZAY     |
 | Sahadporn  | Beverages.      | @Sahadporn |
-| ...        | ...             | ...        |
 
