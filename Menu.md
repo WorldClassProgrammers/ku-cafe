@@ -2,9 +2,13 @@
 
 ## Breakfast Menu
 
-| Item        | Price |
-| :---------- | ----: |
-| nothing yet |   0.0 |
+| Item                                   | Price    |
+|:---------------------------------------|---------:|
+| Scrambled egg with bacon               | 120 baht |
+| Tuna sandwich                          | 25 baht  |
+| Ham-Cheese sandwich                    | 30 baht  |
+| Grilled cheese-filled sausage          | 20 baht  |
+| Koko-crunch cereal box                 | 79 baht  |
 
 ## Lunch Menu
 

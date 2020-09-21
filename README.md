@@ -1,8 +1,7 @@
 # KU Cafe
 
-**TODO**: add hyperlinks and format these one per line. Remove this TODO.
+[Breakfast Menu](Menu.md/##breakfast-menu)
 
-Breakfast Menu
 Lunch Menu
 Dinner Menu
 
@@ -13,11 +12,10 @@ Dinner Menu
 
 ## About Us
 
-**TODO**: Each person adds himself to this list; **not** one person adds everyone
-
-
-| Name       | Role            | Github     |
-| :--------- | --------------- | ---------- |
+| Name      | Role      | Github   |
+|:----------|-----------|----------|
+| Nutta     | Breakfast menu | GifperTC |
 | Nanthakarn | Night Food Menu | @ZEZAY     |
 | Sahadporn  | Beverages.      | @Sahadporn |
 | ...        | ...             | ...        |
+
