@@ -2,31 +2,31 @@
 
 ## Breakfast Menu
 
-| Item                                   | Price    |
-|:---------------------------------------|---------:|
-| Scrambled egg with bacon               | 120.0 |
-| Tuna sandwich                          | 25.0  |
-| Ham-Cheese sandwich                    | 30.0  |
-| Grilled cheese-filled sausage          | 20.0  |
-| Koko-crunch cereal box                 | 79.0  |
+| Item                          | Price |
+| :---------------------------- | ----: |
+| Scrambled egg with bacon      | 120.0 |
+| Tuna sandwich                 |  25.0 |
+| Ham-Cheese sandwich           |  30.0 |
+| Grilled cheese-filled sausage |  20.0 |
+| Koko-crunch cereal box        |  79.0 |
 
 ## Lunch Menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| Curry Rice                             |  249.0 |
-| Udon                                   |  159.0 |
-| Shrimp Tempura                         |   89.0 |
-| Gyudon                                 |  199.0 |
+| Item           | Price |
+| :------------- | ----: |
+| Curry Rice     | 249.0 |
+| Udon           | 159.0 |
+| Shrimp Tempura |  89.0 |
+| Gyudon         | 199.0 |
 
 ## Dinner menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| Barbeque Rib                            |  800  |
-| Tom yum kung                            |  250  |
-| Pepperoni pizza                            |  500  |
-| Fish and Chip                            |  250  |
+| Item            | Price |
+| :-------------- | ----: |
+| Barbeque Rib    | 800.0 |
+| Tom yum kung    | 250.0 |
+| Pepperoni pizza | 500.0 |
+| Fish and Chip   | 250.0 |
 
 ## Night Food menu
 
@@ -41,7 +41,7 @@
 ## Beverages
 
 | Item                 | Price |
-|:---------------------|------:|
+| :------------------- | ----: |
 | Orange Sunrise       | 150.0 |
 | Pineapple Paradise   | 146.0 |
 | Kiwi Crazy           | 179.0 |
