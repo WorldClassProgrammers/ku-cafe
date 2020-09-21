@@ -4,7 +4,7 @@
 
 [Lunch Menu](Menu.md#Lunch-Menu)
 
-Dinner Menu
+[Dinner Menu](Menu.md#Dinner-menu)
 
 [Night Food Menu](Menu.md#Night-Food-menu)
 
@@ -17,6 +17,6 @@ Dinner Menu
 |:----------|-----------|----------|
 | Nutta     | Breakfast menu | @GifperTC |
 | Chanathip Thumkanon | Lunch Menu | @kaesrel |
+| Phuwanut Jiamwatthanaloet | Dinner menu | @phuwanutj |
 | Nanthakarn | Night Food Menu | @ZEZAY     |
 | Sahadporn  | Beverages.      | @Sahadporn |
-| ...        | ...             | ...        |
