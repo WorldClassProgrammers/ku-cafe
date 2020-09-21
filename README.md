@@ -3,7 +3,7 @@
 **TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
 Breakfast Menu
-Lunch Menu
+[Lunch Menu](Menu.md#Lunch-Menu)
 Dinner Menu
 Night Food Menu
 Beverages
@@ -14,5 +14,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
+| Chanathip Thumkanon | Lunch Menu | @kaesrel |
 | ...       | ...       | ...      |

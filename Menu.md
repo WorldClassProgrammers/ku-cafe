@@ -8,9 +8,14 @@
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Curry Rice                             |  249.0 |
+| Udon                                   |  159.0 |
+| Shrimp Tempura                         |   89.0 |
+| Gyudon                                 |  199.0 |
 
-etc.
+
 
 ---
 
