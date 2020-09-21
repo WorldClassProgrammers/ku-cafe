@@ -3,9 +3,13 @@
 **TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
 Breakfast Menu
+
 Lunch Menu
+
 Dinner Menu
+
 Night Food Menu
+
 [Beverages](Menu.md#Beverages)
 
 ## About Us
