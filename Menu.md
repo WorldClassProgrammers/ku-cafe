@@ -23,10 +23,10 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Barbeque Rib                            |  800  |
-| Tom yum kung                            |  250  |
-| Pepperoni pizza                            |  500  |
-| Fish and Chip                            |  250  |
+| Barbeque Rib                            |  800.0  |
+| Tom yum kung                            |  250.0  |
+| Pepperoni pizza                            |  500.0  |
+| Fish and Chip                            |  250.0  |
 
 ## Night Food menu
 
