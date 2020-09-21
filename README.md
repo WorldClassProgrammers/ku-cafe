@@ -5,14 +5,20 @@
 Breakfast Menu
 Lunch Menu
 Dinner Menu
+
 [Night Food Menu](Menu.md#Night-Food-menu)
-Beverages
+
+[Beverages](Menu.md#Beverages)
+
 
 ## About Us
 
 **TODO**: Each person adds himself to this list; **not** one person adds everyone
 
-| Name               | Role            | Github |
-| :----------------- | --------------- | ------ |
-| Nanthakarn Limkool | Night Food Menu | @ZEZAY |
-| ...                | ...             | ...    |
+
+| Name       | Role            | Github     |
+| :--------- | --------------- | ---------- |
+| Nanthakarn | Night Food Menu | @ZEZAY     |
+| :--------- | --------------- | ---------- |
+| Sahadporn  | Beverages.      | @Sahadporn |
+| ...        | ...             | ...        |

@@ -12,6 +12,7 @@ Coming soon.
 
 etc.
 
+
 ## Night Food menu
 
 | Item                   | Price |
@@ -21,6 +22,17 @@ etc.
 | Bacon-Wrapped Hot Dogs |  40.0 |
 | Tacos                  |  80.0 |
 | Chili                  |  45.0 |
+
+
+## Beverages
+
+| Item                 | Price |
+|:---------------------|------:|
+| Orange Sunrise       | 150.0 |
+| Pineapple Paradise   | 146.0 |
+| Kiwi Crazy           | 179.0 |
+| Blue Berry Bay       | 189.0 |
+| Dragon Fruit Passion | 189.0 |
 
 ---
 
