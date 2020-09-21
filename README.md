@@ -6,7 +6,7 @@ Breakfast Menu
 Lunch Menu
 Dinner Menu
 Night Food Menu
-Beverages
+[Beverages](Menu.md#Beverages)
 
 ## About Us
 
@@ -14,5 +14,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
+| Sahadporn | Beverages | @Sahadporn |
 | ...       | ...       | ...      |
