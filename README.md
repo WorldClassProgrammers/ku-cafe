@@ -19,6 +19,5 @@ Dinner Menu
 | Name       | Role            | Github     |
 | :--------- | --------------- | ---------- |
 | Nanthakarn | Night Food Menu | @ZEZAY     |
-| :--------- | --------------- | ---------- |
 | Sahadporn  | Beverages.      | @Sahadporn |
 | ...        | ...             | ...        |
